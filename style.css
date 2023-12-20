@@ -1377,6 +1377,15 @@ body {
     }
   }
 
+@media screen and (max-width: 768px) {
+    .float .box img {
+        width: 60%;
+        max-height: 350px; /* Postavljamo maksimalnu visinu za slike */
+        object-fit: cover; /* Slike će popuniti cijelu površinu, zadržavajući svoje proporcije */
+        border-radius: 15px; /* Border-radius se primjenjuje i na slike */
+    }
+  }
+
 
   
 
