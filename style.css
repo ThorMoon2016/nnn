@@ -1372,14 +1372,14 @@ body {
 @media screen and (max-width: 768px) {
     .float .box {
         height: 300px; /* Povećavamo visinu boxa */
-        width: 20%;
+        width: 200px;
        
     }
   }
 
 @media screen and (max-width: 768px) {
     .float .box img {
-        width: 50%;
+        width: 30%;
         max-height: 350px; /* Postavljamo maksimalnu visinu za slike */
         object-fit: cover; /* Slike će popuniti cijelu površinu, zadržavajući svoje proporcije */
         border-radius: 15px; /* Border-radius se primjenjuje i na slike */
