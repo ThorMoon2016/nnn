@@ -1371,9 +1371,9 @@ body {
 
 @media screen and (max-width: 768px) {
     .float .box {
-        height: 400px; /* Povećavamo visinu boxa */
+        height: 320px; /* Povećavamo visinu boxa */
         width: 200px;
-        margin-left: 50px
+        margin-left: 70px
        
     }
   }
