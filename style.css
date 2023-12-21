@@ -1356,7 +1356,7 @@ body {
   @media screen and (max-width: 768px) {
     .slick-slider {
         overflow: hidden;
-        width: 90%; /* Da bi se spriječilo horizontalno pomicanje */
+        width: 70%; /* Da bi se spriječilo horizontalno pomicanje */
     }
   }
 
